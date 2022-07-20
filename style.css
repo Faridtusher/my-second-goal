@@ -1,0 +1,79 @@
+/* Google font */
+@import url('https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@1,700&family=Gentium+Book+Plus:ital,wght@1,700&family=Roboto:wght@300&display=swap');
+
+
+/* Style for the Common section */
+body{
+   font-family: 'Finlandica', sans-serif;
+   font-family: 'Gentium Book Plus', serif;
+   font-family: 'Roboto', sans-serif;
+   margin: 0px;
+   padding: 0px;
+   border: 0px;
+}
+
+
+h1{
+   font-size: 2em;
+   font-weight: bolder;
+   color: white;
+}
+
+
+.common-width{
+   margin: 80px;
+}
+
+
+
+
+/* Style for header section */
+#header-container{
+   display: flex;
+   justify-content:space-evenly;
+   background-color: black;
+   border-radius: 10px;
+   padding: 10px;
+}
+
+
+.header-text{
+   width: 50%;
+}
+
+
+.header-text p{
+   color: white;   
+}
+
+
+.submit-btn{
+   background-color: rgb(236, 70, 41);
+   color: white;
+   border: 0;
+   font-size: 15px;
+   padding: 10px 20px;
+   border-radius: 5px;
+}
+
+
+
+
+/* Style for first-body section */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Style for header section */
+/* Style for header section */
+/* Style for header section */
+/* Style for header section */
