@@ -22,8 +22,8 @@ h1{
 
 .common-width{
    margin: 80px;
+   width: 1321px;
 }
-
 
 
 
@@ -53,13 +53,96 @@ h1{
    border: 0;
    font-size: 15px;
    padding: 10px 20px;
+   margin: 10px;
    border-radius: 5px;
 }
 
 
 
-
 /* Style for first-body section */
+#blog-all{
+   display: flex;
+}
+
+
+.body-menu{
+   background-color:black;
+   width: 312px;
+   height: 200px;
+   padding: 30px;
+   border-radius: 10px;
+   margin: 20px 0px;
+   display: flex;
+   flex-direction: column; 
+}
+
+
+.submit-button{ 
+   padding: 10px 20px;
+   margin: 10px;
+   border-radius: 5px;
+   font-weight: 600;
+}
+
+
+.blog-container{
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+  
+}
+
+
+.blog-details{
+   margin: 20px 30px;
+   border: 1px solid rgb(241, 232, 232);
+   border-radius: 5px;
+   padding: 7px; 
+}
+
+
+.fa-clock{
+   margin: 0px 50px 0px 0px;  
+}
+
+
+
+/* Style for footer section */
+footer{
+   background-color: black;
+}
+
+
+.foo-title{
+   padding: 20px;
+   text-align: center;
+}
+
+
+
+hr{
+   width: 70%;
+   background-color: gray;
+}
+
+
+.foo-title{
+   padding: 40px;
+   text-align: center;
+}
+
+
+.foo-link{
+   padding: 20px;
+   text-align: center;
+}
+
+
+.foo-link a{
+   text-decoration: none;
+   color: white;
+   padding: 20px;
+   
+}
 
 
 
@@ -73,7 +156,10 @@ h1{
 
 
 
-/* Style for header section */
+
+
+
+
 /* Style for header section */
 /* Style for header section */
 /* Style for header section */
